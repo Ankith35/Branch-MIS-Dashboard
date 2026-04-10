@@ -34,7 +34,7 @@ raw transaction data to an interactive Power BI dashboard.
 3. Branch KPI summary by risk flag
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Branch_MIS_Dashboard.png.png)
 
 ## How to Use
 1. Download `data/sample_data_500rows.csv`
