@@ -37,7 +37,7 @@ raw transaction data to an interactive Power BI dashboard.
 ![Dashboard](Branch_MIS_Dashboard.png.png)
 
 ## How to Use
-1. 1. Download 'Branch_MIS_Data.csv'
+1. Download 'Branch_MIS_Data.csv'
 2. Import into MySQL using 'sql/mis_queries.sql'
 3. Open 'Branch_MIS_Dashboard.pbix' in Power BI Desktop
 
